@@ -6,8 +6,8 @@ exemplo:
 
 ```css
 /*=================== 
-		  Text Align
- 	=================== */
+       Text Align
+  =================== */
 
 .text-left {
 	text-align: left;
@@ -24,13 +24,13 @@ exemplo:
 
 ```css
 /*=================== 
-		Text Decoration
- 	=================== */
+    Text Decoration
+  =================== */
 
 .text-none {
 	text-decoration: none;	
 } /* remove todas as decorações de um texto.
-		mesmo se você não tiver adicionado uma */
+     mesmo se você não tiver adicionado uma */
 
 .text-underline {
 	text-decoration: underline;
