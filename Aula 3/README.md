@@ -1,6 +1,6 @@
 ## Aula 3 - Curso de CSS - WPMasters · 20/01/2021
 
-Nesta aula foi ensinado a como colocar uma imagem como background, e também foiensindo outros  atributos de text.
+Nesta aula foi ensinado a como colocar uma imagem como background, e também foi ensinado outros atributos de texto.
 
 exemplo: 
 
