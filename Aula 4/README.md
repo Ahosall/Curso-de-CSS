@@ -11,7 +11,7 @@ Exemplo :
 	width: 100%; /* isto deixara ela da largura do seu display*/
 	height: 100px; /* isso da 100px de altura para a div*/
 	border-bottom: 1px solid #000000; /* aqui adiciona uma borda de 1px, solido e preto em baixo da div*/
-	background-color: #FF0000	; /*aqui muda a cor do background da div vermelho*/
+	background-color: #FF0000; /*aqui muda a cor do background da div vermelho*/
 }
 ```
 
@@ -27,6 +27,7 @@ a {
 bom, o link tbm tem as mesmas funções de texto do `<p>|<h1>|...`
 
 ### Atributos dos links
+
 Os links possuem tributos sendo eles o `hover`(Quando um usuário passar o mouse por cima do link), o `activate`(Quando o usuário mantém o link pressionado), e o visited(Quando o usuário já acessou o link).
 
 Exemplos
