@@ -2,7 +2,7 @@
 
 Nesta aula foi ensinado a como colocar uma imagem como background, e também foi ensinado outros atributos de texto.
 
-exemplo: 
+exemplo dos atributos de texto: 
 
 ```css
 /*=================== 
@@ -45,4 +45,4 @@ exemplo:
 } /* coloca uma linha no meio do texto*/
 ```
 
-Aviso: Eu adicionei mais algumas coisas no `style.css` que não foi ensinado na aula 3, mais pra frente vai ser explicado como eles funcionam ...
+Aviso: Eu adicionei mais algumas coisas no `style.css` que não foi ensinado na aula 3, mais pra frente será explicado como eles funcionam ...
