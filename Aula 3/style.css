@@ -1,0 +1,70 @@
+/* Documento CSS */
+
+body {
+	background-image: url("../img/background-1.jpg");
+	background-size: cover;
+
+	padding-top: 25px;
+	padding-left: 25px;
+	padding-right: 25px;
+} /*  muda o fundo do body */
+
+.panel {
+	border-radius: 30px;
+} /* Cria um painel */
+
+.panel-body {
+	padding-top: 30px;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 30px;
+} /* corpo do painel */
+
+.bg-white {
+	background-color: #FFFFFF;
+} /* Modifica o background para branco */
+
+/*=================== 
+		  Text Align
+ 	=================== */
+
+.text-left {
+	text-align: left;
+} /* coloca todos os textos com a classe na esquerda */
+
+.text-center {
+	text-align: center;
+} /* coloca todos os textos com a classe no centro */
+
+.text-right {
+	text-align: right;
+} /* coloca todos os textos com a classe na direita */
+
+/*=================== 
+			Text Ident
+ 	=================== */
+
+.text-ident {
+	text-indent: 30px;
+}
+
+/*=================== 
+		Text Decoration
+ 	=================== */
+
+.text-none {
+	text-decoration: none;	
+} /* remove todas as decorações de um texto.
+		mesmo se você não tiver adicionado uma */
+
+.text-underline {
+	text-decoration: underline;
+} /* deixa o texto sublinhado */
+
+.text-overline {
+	text-decoration: overline;
+} /* coloca uma linha acima do texto */
+
+.text-through {
+	text-decoration: line-through;
+} /* coloca uma linha no meio do texto*/
