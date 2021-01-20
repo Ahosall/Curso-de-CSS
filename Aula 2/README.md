@@ -4,7 +4,7 @@ Nesta aula foi ensinado a estilizar textos, como mudar a cor, aumentar o tamanho
 Também foi ensinado a como identificar cada tag usando `id=""|class=""`.
 
 ```css
-#paragraph {
+p, #paragraph, .paragraph {
 	/* Aqui altera a fonte, se a primeira fonte não for aceita pelo seu navegador, ele irá usar a segunda e assim por diante */
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
 	/* aqui aumenta o tamanho da fonte */
