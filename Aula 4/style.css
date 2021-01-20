@@ -1,0 +1,33 @@
+/* Documento CSS */
+
+* {
+	padding: 0;
+	margin: 0;
+} /* Este código remove todos os espaçamentos do site */
+
+.top-div {
+	position: relative;
+	width: 100%;
+	height: 100px;
+	border-bottom: 1px solid #000000;
+	background-color: #FF0000	;
+} /* este código cria um espaço vermelho no começo do site comuma borda preto*/
+
+a {
+	text-decoration: none;
+	font-family: Arial;
+	color: white;
+} /* este codigo remove todas as decorações da tag a, adiciona uma fonte e muda a cor para branca */
+
+a:hover {
+	font-weight: bold;
+	color: black;
+} /* Todavez que o mouse passar por cima da tag a ele irá ficar em negrito e preto */
+
+a:activate {
+	color: blue;
+} /* se o usuário manter pressionado na tag a ele irá ficar azul */
+
+a:visited {
+	color: yellow;
+} /* se o usuário ja entrou no link da tag a ele irá ficar amarelo */
